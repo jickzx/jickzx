@@ -2,6 +2,8 @@
 
 boo!
 
+I Am James Espinosa - a Computer Science student at the University of Nottingham. i'll work on this readme soon trust
+
 <!--
 **jickzx/jickzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
