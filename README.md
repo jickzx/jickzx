@@ -1,4 +1,4 @@
-i like to build things!
+i like 
 
 so far:
 hacknotts '25, gemini hackathon, uon gamejam winter '25, ucl realtech hackathon, hacklondon, hacksussex, sotonhack, uon medtech hackathon,
