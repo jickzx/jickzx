@@ -1,8 +1,4 @@
-i like 
 
-so far:
-hacknotts '25, gemini hackathon, uon gamejam winter '25, ucl realtech hackathon, hacklondon, hacksussex, sotonhack, uon medtech hackathon,
-incoming: tech:europe london ai hack, imperial terrible ideas (?), hackthelaw cambridge.
 
 <!--
 **jickzx/jickzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
