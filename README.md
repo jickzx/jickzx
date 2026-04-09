@@ -1,4 +1,4 @@
-april fools but claude code got leaked lmao
+https://jickzx.github.io
 
 <!--
 **jickzx/jickzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
