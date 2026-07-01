@@ -13,6 +13,11 @@
   - HackSussex
   - [SotonHack](https://github.com/jickzx/SotonHack26)
   - [Watcha Hackathon (located in UCL)](https://github.com/jickzx/Panda-Note)
+ 
+## Current projects
+- Machine Learning project on the 2026 World Cup
+- Fun little Sudoku project in Python
+- Leetcode...?
 <!--
 **jickzx/jickzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
