@@ -15,11 +15,11 @@
   - [Watcha Hackathon (located in UCL)](https://github.com/jickzx/Panda-Note)
  
 ## Current projects
-- Machine Learning project on the 2026 World Cup
+- Machine Learning project on the 2026 World Cup using PyTorch
 - Fun little Sudoku project in Python
 - Leetcode...?
-- Contributing to OSC notes
-- Classroom 42 projects!
+- Contributing to [OSC notes](https://github.com/jickzx/AK-notes)
+- https://www.classroom42.com !
 <!--
 **jickzx/jickzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
