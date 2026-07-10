@@ -1,6 +1,5 @@
 # Hello!
 
-- Software Engineer Intern @ Classroom 42
 - 1st Year Computer Science Student at the University of Nottingham
 - 7x Hackathon Winner:
   - [UoN GameJam (1st Place)](https://github.com/tmaer/Snowball-plus)
@@ -19,7 +18,6 @@
 - Fun little Sudoku project in Python
 - Leetcode...?
 - Contributing to [OSC notes](https://github.com/jickzx/AK-notes)
-- https://www.classroom42.com !
 <!--
 **jickzx/jickzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
