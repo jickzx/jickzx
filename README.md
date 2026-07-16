@@ -14,7 +14,8 @@
   - [Watcha Hackathon (located in UCL)](https://github.com/jickzx/Panda-Note)
  
 ## Current projects
-- Machine Learning project on the 2026 World Cup using PyTorch
+- YouTube clone
+- Machine Learning project on the 2026 World Cup using PyTorch (er...)
 - Fun little Sudoku project in Python
 - Leetcode...?
 - Contributing to [OSC notes](https://github.com/jickzx/AK-notes)
